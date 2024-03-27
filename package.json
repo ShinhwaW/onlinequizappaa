@@ -1,0 +1,32 @@
+{
+  "name": "onlinequizappaa",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "onlinequizappaa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShinhwaW/onlinequizappaa"
+  },
+  "website": "https://github.com/ShinhwaW/onlinequizappaa.git",
+  "keywords": [
+    "onlinequizappaa"
+  ],
+  "author": "ShinhwaW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinhwaW/onlinequizappaa/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/ShinhwaW/onlinequizappaa#readme",
+  "dependencies": {
+    "emailsubscriptionservice": "1.0.2",
+    "musicsharingplatforms": "1.0.2"
+  }
+}
